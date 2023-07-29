@@ -1,0 +1,144 @@
+{
+  "kisiler": [
+    {
+      "ad": "Ahmet",
+      "soyad": "Yılmaz",
+      "ulke": "Türkiye",
+      "sehir": "İstanbul",
+      "yas": 30
+    },
+    {
+      "ad": "Emma",
+      "soyad": "Johnson",
+      "ulke": "İngiltere",
+      "sehir": "Londra",
+      "yas": 28
+    },
+    {
+      "ad": "Juan",
+      "soyad": "Gomez",
+      "ulke": "İspanya",
+      "sehir": "Barselona",
+      "yas": 25
+    },
+    {
+      "ad": "Elena",
+      "soyad": "Fernández",
+      "ulke": "İspanya",
+      "sehir": "Madrid",
+      "yas": 32
+    },
+    {
+      "ad": "John",
+      "soyad": "Smith",
+      "ulke": "ABD",
+      "sehir": "New York",
+      "yas": 35
+    },
+    {
+      "ad": "Maria",
+      "soyad": "Silva",
+      "ulke": "Brezilya",
+      "sehir": "Rio de Janeiro",
+      "yas": 27
+    },
+    {
+      "ad": "Mehmet",
+      "soyad": "Öztürk",
+      "ulke": "Türkiye",
+      "sehir": "Ankara",
+      "yas": 29
+    },
+    {
+      "ad": "Sophia",
+      "soyad": "Lee",
+      "ulke": "Güney Kore",
+      "sehir": "Seul",
+      "yas": 31
+    },
+    {
+      "ad": "Luis",
+      "soyad": "Martinez",
+      "ulke": "Meksika",
+      "sehir": "Meksiko Şehri",
+      "yas": 24
+    },
+    {
+      "ad": "Lara",
+      "soyad": "Müller",
+      "ulke": "Almanya",
+      "sehir": "Berlin",
+      "yas": 26
+    },
+    {
+      "ad": "Alex",
+      "soyad": "Wong",
+      "ulke": "Çin",
+      "sehir": "Pekin",
+      "yas": 33
+    },
+    {
+      "ad": "Fatima",
+      "soyad": "Ahmed",
+      "ulke": "Pakistan",
+      "sehir": "Lahore",
+      "yas": 22
+    },
+    {
+      "ad": "Kaan",
+      "soyad": "Demir",
+      "ulke": "Türkiye",
+      "sehir": "İzmir",
+      "yas": 27
+    },
+    {
+      "ad": "Isabella",
+      "soyad": "Russo",
+      "ulke": "İtalya",
+      "sehir": "Roma",
+      "yas": 29
+    },
+    {
+      "ad": "Tomas",
+      "soyad": "Novák",
+      "ulke": "Çekya",
+      "sehir": "Prag",
+      "yas": 30
+    },
+    {
+      "ad": "Liam",
+      "soyad": "Brown",
+      "ulke": "Kanada",
+      "sehir": "Toronto",
+      "yas": 26
+    },
+    {
+      "ad": "Hannah",
+      "soyad": "Andersen",
+      "ulke": "Danimarka",
+      "sehir": "Kopenhag",
+      "yas": 31
+    },
+    {
+      "ad": "Lucas",
+      "soyad": "García",
+      "ulke": "İspanya",
+      "sehir": "Valencia",
+      "yas": 28
+    },
+    {
+      "ad": "Eva",
+      "soyad": "Dubois",
+      "ulke": "Fransa",
+      "sehir": "Paris",
+      "yas": 32
+    },
+    {
+      "ad": "David",
+      "soyad": "Kim",
+      "ulke": "Güney Kore",
+      "sehir": "Seul",
+      "yas": 29
+    }
+  ]
+}
